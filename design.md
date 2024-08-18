@@ -2,4 +2,4 @@
 
 - [] Create Telegram bot(**with python**)
 - [] Read & Check github commit
-- [x] Post to telegram ch
+- [] Post to telegram ch
