@@ -1,12 +1,20 @@
 # contribution guide
 [persian version | نسخه فارسی](https://docs.google.com/document/d/1MqN3kFYmRMHa3mB40iO6MYB1kc_zbUaMOvsouq6bRU0/edit?usp=sharing)
 
-hi. welcome to the contribution guide of medx open-source project.
-it's nice to have you here. and this is a guiding document aims to help the people who are willing to contribute to the medx open-source project. you can read about its why [here](https://github.com/Sinusealpha/MedX/blob/main/CONTRIBUTION-WHY.md) if you haven't read it yet.
+Hi there! Welcome to the contribution guide for the MedX open-source project. We're thrilled to have you on board!
 
-first of all, you should know that we encourage any contribution. even if it doesn't meet this document. because we consider any contribution a help and help is good for its own sake. so this document is just for a bit better help for those who want to help more.
+This guide is designed to help you contribute to MedX. If you are new to contributing to open-source projects, we recommend reading the [Why Contribution](https://github.com/MedX-Media/MedX/blob/main/CONTRIBUTION-WHY.md) document to learn about the reasons of others.
 
-we should also emphasis that this is an open-source project meaning that you can contribute to everything. even this document itself. so please never hesitate about "can i contribute to this part or not?".
+We believe that any contribution, big or small, is valuable. This guide is simply here to make contributing even easier for those who want to dive deeper.
+
+Remember, MedX is an "open-source" project, meaning you can contribute to "anything", including this very document! So, if you have an idea, don't hesitate to share it. :)
+
+There are two main ways to contribute: development and content creation.
+
+- For development contributions, head over to the [issues tab](https://github.com/MedX-Media/MedX/issues) and get started with "good first issues". but before that, read the issues part of this guide to be familiar how it works.
+- Content creators can also contribute by writing in the website. but before that make sure to read our [content principles](https://github.com/MedX-Media/MedX/blob/main/ContentPrinciples.md) document.
+
+---> *Looking for a good place to start?* Join our ["Inside MedX" Telegram channel](https://t.me/insidemedx), where we announce MedX's needs and reports, including "good first issues" for newcomers and monthly reports for the people who want to know about our status.
 
 ---
 
