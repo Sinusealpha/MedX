@@ -1,13 +1,7 @@
 # contribution guide
 [persian version | نسخه فارسی](https://docs.google.com/document/d/1MqN3kFYmRMHa3mB40iO6MYB1kc_zbUaMOvsouq6bRU0/edit?usp=sharing)
 
-Hi there! Welcome to the contribution guide for the MedX open-source project. We're thrilled to have you on board!
-
-This guide is designed to help you contribute to MedX. If you are new to contributing to open-source projects, we recommend reading the [Why Contribution](https://github.com/MedX-Media/MedX/blob/main/CONTRIBUTION-WHY.md) document to learn about the reasons of others.
-
-We believe that any contribution, big or small, is valuable. This guide is simply here to make contributing even easier for those who want to dive deeper.
-
-Remember, MedX is an "open-source" project, meaning you can contribute to "anything", including this very document! So, if you have an idea, don't hesitate to share it. :)
+Welcome to MedX's contribution guide! New to open source? Read [Why Contribution](https://github.com/MedX-Media/MedX/blob/main/CONTRIBUTION-WHY.md). All contributions, big or small, are valuable, even in this guide! so feel free to share your ideas!
 
 There are two main ways to contribute: development and content creation.
 
