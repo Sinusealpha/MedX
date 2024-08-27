@@ -11,7 +11,7 @@ Remember, MedX is an "open-source" project, meaning you can contribute to "anyth
 
 There are two main ways to contribute: development and content creation.
 
-- For development contributions, head over to the [issues tab](https://github.com/MedX-Media/MedX/issues) and get started with "good first issues". but before that, read the [issues part]() of this guide to be familiar with how it works.
+- For development contributions, head over to the [issues tab](https://github.com/MedX-Media/MedX/issues) and get started with "good first issues". but before that, read the [issues part](https://github.com/Sinusealpha/MedX/blob/main/CONTRIBUTION-GUIDE.md#issues) of this guide to be familiar with how it works.
 - Content creators can also contribute by writing on the website. but before that make sure to read our [content principles](https://github.com/MedX-Media/MedX/blob/main/ContentPrinciples.md) document.
 
 ---> *Looking for a good place to start?* Join our ["Inside MedX" Telegram channel](https://t.me/insidemedx), where we announce MedX's needs and reports, including "good first issues" for newcomers and monthly reports for the people who want to know about our status.
